@@ -13,14 +13,4 @@
   Vista: Es la parte en la cual el usuario puede ver la informacion de la base de datos <br>
   Controlador: Este aspecto interactua con la informacio recibida del modelo, y se encarga de trasladarlo a la vista
 
-<br><br>
-  Ventajas: <br>
-  Agiliza el trabajo <br>
-  Reutiliza codigo
-<br> <br>
-  Desventajas: <br>
-  Dificil de aprender y dominar
-
-
-
 @endsection
