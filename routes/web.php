@@ -20,4 +20,4 @@ Route::get('/', function () {
 
 Route::get('tiendas/create','TiendasController@create')->name('tiendas.create');
 Route::post('tiendas/store','ShopController@store')->name('tiendas.store');
-Route::get('productos/index','ProductController@index')->name('productos.index');
+Route::get('productos/index','ProductosController@index')->name('productos.index');
